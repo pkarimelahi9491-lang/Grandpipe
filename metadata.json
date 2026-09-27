@@ -1,0 +1,6 @@
+{
+  "name": "گرندپایپ | گزارش راهبردی ورود به بازار اتیوپی",
+  "description": "پرتال جامع ارزیابی استراتژیک بازار، مدل‌های ورود تجاری، پروژه محوری GERED و مصوبات هیئت‌مدیره گروه صنعتی فراسان و گرندپایپ در اتیوپی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
