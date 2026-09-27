@@ -16,7 +16,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'مذاکرات با سفارت، وزارتخانه‌های آب، کشاورزی و کمیسیون سرمایه‌گذاری (EIC)',
     section: 'فصل دوم: بخش ۲-۲ و ۲-۳ (سفر مشترک مدیریت ارشد به اتیوپی)',
     chapter: 'فصل ۲',
-    imageSrc: '/src/assets/images/ethiopia_diplomatic_meeting_1790501475663.jpg',
+    imageSrc: '/images/diplomatic_meeting.jpg',
     caption: 'دیدارهای رسمی تیم مدیریت ارشد گرندپایپ و گروه فراسان با مقامات ارشد دولتی اتیوپی پیرامون طرح‌های خطوط انتقال آب و معرفی اولیه پروژه GERED.',
     tags: ['جلسات رسمی وزارتی', 'سفارت و EIC', 'مذاکرات مدیریت']
   },
@@ -26,7 +26,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'دعوت رسمی دولت و امضای ۱۳ میلیارد دلار تفاهم‌نامه سرمایه‌گذاری بین‌المللی',
     section: 'فصل دوم: بخش ۲-۴ (مأموریت میدانی توسعه بازار در آدیس‌آبابا)',
     chapter: 'فصل ۲',
-    imageSrc: '/src/assets/images/ethiopia_investment_summit_1790501487261.jpg',
+    imageSrc: '/images/investment_summit.jpg',
     caption: 'حضور نماینده رسمی گرندپایپ در کنگره سرمایه‌گذاری، بررسی بخشنامه‌های جدید نرخ شناور ارز، تسهیلات بانکی، و ترخیص مناطق آزاد تجاری.',
     tags: ['کنگره سرمایه‌گذاری', '۱۳ میلیارد دلار قرارداد', 'اصلاحات ارزی']
   },
@@ -36,7 +36,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'موقعیت ژئوپلیتیک در ۳۰ کیلومتری پایتخت و همجواری با بندر خشک Modjo',
     section: 'فصل دوم (بخش ۲-۵) و فصل چهارم (بخش ۴-۱۴ تولید محلی)',
     chapter: 'فصل ۲ و ۴',
-    imageSrc: '/src/assets/images/adama_industrial_park_1790501499683.jpg',
+    imageSrc: '/images/adama_park.jpg',
     caption: 'بررسی میدانی شهرک صنعتی آداما، دسترسی به شبکه جاده‌ای و ریلی جیبوتی، معافیت‌های گمرکی و پتانسیل تولید لوله‌های قطور GRP جهت بازار داخلی و COMESA.',
     tags: ['شهرک صنعتی Adama', 'بندر خشک Modjo', 'تولید محلی آینده']
   },
@@ -46,7 +46,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'مسیر خط لوله DN1200–DN1600 و طراحی هیدرولیک در مناطق کوهستانی و فلات',
     section: 'فصل سوم (بخش ۳-۴) و فصل چهارم (پایلوت ۱۰۰ میلیون دلاری)',
     chapter: 'فصل ۳ و ۴',
-    imageSrc: '/src/assets/images/gered_pipeline_survey_1790501513047.jpg',
+    imageSrc: '/images/gered_survey.jpg',
     caption: 'ارزیابی هیدرولیکی اختلاف ارتفاعات، فشار کاری PN16-25 و طراحی ۸۰ تا ۱۲۰ کیلومتر خط اصلی انتقال آب با لوله‌های کامپوزیت پلیمری GRP.',
     tags: ['پروژه GERED', 'نقشه‌برداری مسیر', 'DN1200-1600']
   },
@@ -56,7 +56,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'تأمین مستقیم لوله‌ها و اتصالات پروژه از کارخانه‌های فعال در ایران یا ترکیه',
     section: 'فصل چهارم: بخش ۴-۲-۴ (تأمین بدون نیاز به سرمایه‌گذاری اولیه در کارخانه)',
     chapter: 'فصل ۴',
-    imageSrc: '/src/assets/images/grp_manufacturing_plant_1790501151230.jpg',
+    imageSrc: '/images/grp_plant.jpg',
     caption: 'فناوری تولید اتوماتیک لوله‌های قطر بالای GRP با استانداردهای ASTM و AWWA در کارخانه‌های گروه، جهت تحقق اصل جریان نقدینگی پیش از سرمایه‌گذاری صنعتی.',
     tags: ['کارخانه پیوسته GRP', 'تأمین از ایران/ترکیه', 'Asset-Light']
   },
@@ -66,7 +66,7 @@ export const documentEmbeddedImages: DocumentImageDoc[] = [
     subtitle: 'مسیر ۹۵٪ مبادلات تجاری کشور با ۱۶.۵ میلیون تن بار در سال',
     section: 'فصل اول: بخش ۱۰-۱ (لجستیک و دسترسی به بازار)',
     chapter: 'فصل ۱',
-    imageSrc: '/src/assets/images/strategic_infrastructure_corridor_1790501161497.jpg',
+    imageSrc: '/images/strategic_corridor.jpg',
     caption: 'زنجیره تثبیت‌شده حمل مواد اولیه رزین و الیاف شیشه از بنادر جیبوتی به بندر خشک مودجو و حمل ریلی/جاده‌ای به مقاصد پروژه‌ها.',
     tags: ['کریدور جیبوتی', 'بندر خشک مودجو', 'ترانزیت مواد اولیه']
   }

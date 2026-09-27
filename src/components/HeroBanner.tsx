@@ -14,7 +14,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ activeDoc, onExploreClic
       {/* Background Image with Measured Scrim Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_water_pipeline_1790501140717.jpg"
+          src="/images/hero_pipeline.jpg"
           alt="اجرای خطوط انتقال آب قطر بالا GRP گرندپایپ فراسان در اتیوپی"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center opacity-30 transform scale-105 transition-transform duration-1000 ease-out"

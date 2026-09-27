@@ -186,7 +186,7 @@ export const MacroAssessmentSection: React.FC = () => {
           <div className="lg:col-span-6">
             <div className="relative rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
               <img
-                src="/src/assets/images/strategic_infrastructure_corridor_1790501161497.jpg"
+                src="/images/strategic_corridor.jpg"
                 alt="کریدور زیرساختی و لجستیکی اتیوپی جیبوتی آداما"
                 referrerPolicy="no-referrer"
                 className="w-full h-80 sm:h-96 object-cover object-center"
