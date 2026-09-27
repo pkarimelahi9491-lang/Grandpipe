@@ -69,24 +69,24 @@ export const DocumentSelector: React.FC<DocumentSelectorProps> = ({ activeDoc, s
               {/* Key topics included */}
               <div className="mt-6 pt-5 border-t border-slate-800/80">
                 <span className="text-[11px] font-semibold text-slate-400 block mb-2.5">
-                  محورهای کلیدی محتوای فایل ۱:
+                  بخش‌های کلیدی فصل اول و دوم (ارزیابی کلان و اقدامات میدانی):
                 </span>
                 <ul className="space-y-2 text-xs text-slate-300">
                   <li className="flex items-center gap-2">
                     <Globe className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                    <span>بازار ۱۳۵ میلیونی اتیوپی، رشد اقتصادی ۹.۲٪ و الحاق به COMESA</span>
+                    <span>بازار ۱۳۵ میلیونی، رشد اقتصادی ۹.۲٪ و دسترسی به بازار ۲۱ کشور پیمان COMESA</span>
                   </li>
                   <li className="flex items-center gap-2">
                     <Building2 className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                    <span>برنامه ده‌ساله توسعه ۲۰۲۱-۲۰۳۰ و افزایش ۱.۲ میلیون هکتار آبیاری</span>
+                    <span>اصلاحات ارزی FX، برنامه ۳.۴B$ صندوق پول و ۲.۵B$ بانک جهانی</span>
                   </li>
                   <li className="flex items-center gap-2">
                     <Factory className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                    <span>تحلیل پروژه‌های Welkayit (۶۵km GRP)، Chelchel و خط انتقال Harar</span>
+                    <span>کریدور ترانزیت جیبوتی-مودجو و بررسی منطقه آزاد صنعتی Adama جهت تولید احتمالی آینده</span>
                   </li>
                   <li className="flex items-center gap-2">
                     <ShieldCheck className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                    <span>کریدور استراتژیک لجستیک جیبوتی-مودجو و منطقه آزاد Adama</span>
+                    <span>گزارش میدانی سفر مدیریت ارشد و کنگره سرمایه‌گذاری خارجی (قراردادهای ۱۳B$)</span>
                   </li>
                 </ul>
               </div>
