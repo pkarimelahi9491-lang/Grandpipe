@@ -14,7 +14,6 @@ import { ProjectsPortfolioSection } from './components/ProjectsPortfolioSection'
 import { BoardResolutionsSection } from './components/BoardResolutionsSection';
 import { RiskMitigationSection } from './components/RiskMitigationSection';
 import { FullDocumentViewer } from './components/FullDocumentViewer';
-import { DocumentImageGallery } from './components/DocumentImageGallery';
 import { ExecutiveSummaryModal } from './components/ExecutiveSummaryModal';
 import { Footer } from './components/Footer';
 import { FileText, TrendingUp, Layers, ArrowLeft, Sparkles, Building2, CheckCircle2 } from 'lucide-react';
@@ -126,9 +125,6 @@ export default function App() {
 
         {/* Complete Unabridged Document Text Viewer with In-line Images */}
         <FullDocumentViewer activeDoc={activeDoc} />
-
-        {/* Dedicated Document Images & Field Mission Evidence Gallery */}
-        <DocumentImageGallery />
 
         {/* Risk Mitigation Section (Relevant to Both) */}
         <RiskMitigationSection />

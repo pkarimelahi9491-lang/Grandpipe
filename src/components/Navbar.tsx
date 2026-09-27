@@ -33,9 +33,6 @@ export const Navbar: React.FC<NavbarProps> = ({ activeDoc, setActiveDoc, onOpenS
           <a href="#full-document-text" className="hover:text-cyan-400 transition-colors">
             متن فصول
           </a>
-          <a href="#document-gallery" className="hover:text-cyan-400 transition-colors">
-            تصاویر و اسناد
-          </a>
           <a href="#gered-project" className="hover:text-cyan-400 transition-colors">
             پروژه GERED
           </a>
